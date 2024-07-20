@@ -1,0 +1,19 @@
+footer {
+    background-color: rgb(3 3 71);
+  }
+  .footer {
+    display: flex;
+    padding: 23px 122px;
+    justify-content: space-evenly;
+  }
+  .footer ul {
+    list-style: none;
+  }
+  .footer > div {
+    width: 223px;
+  }
+  .footer-rights {
+    text-align: center;
+    color: gray;
+    padding: 12px 0;
+  }
